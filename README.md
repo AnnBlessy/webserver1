@@ -4,6 +4,7 @@
 
 To develop a simple webserver to serve html programming pages.
 
+
 ## DESIGN STEPS:
 
 ### Step 1:
@@ -25,6 +26,8 @@ Serving the HTML pages.
 ### Step 5:
 
 Testing the webserver
+
+
 
 ## PROGRAM:
 ```
@@ -50,6 +53,8 @@ httpd=HTTPServer(server_address,WebHandler)
 print("Web server running...")
 httpd.serve_forever()    
 ```
+
+
 
 
 ## OUTPUT:
