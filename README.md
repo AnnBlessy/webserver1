@@ -51,12 +51,13 @@ print("Web server running...")
 httpd.serve_forever()    
 ```
 
+
 ## OUTPUT:
 
 ### Server side output
 ![Server side output](./images/serveroutput.png)
 
-###Client side output
+### Client side output
 ![Server side output](./images/clientoutput.png)
 
 ## RESULT:
